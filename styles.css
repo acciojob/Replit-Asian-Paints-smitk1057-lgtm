@@ -1,4 +1,5 @@
-/*  your css code here. If applicable */ #grid-container {
+/*  your css code here. If applicable */ 
+#grid-container {
       display: grid;
       grid-template-columns: repeat(3, 100px);
       gap: 10px;
