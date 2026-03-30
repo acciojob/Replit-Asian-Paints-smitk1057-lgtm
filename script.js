@@ -1,5 +1,7 @@
-let  changeBtn = document.getElementById("change_button");
-let  resetBtn = document.getElementById("Reset");
+// your JS code here
+
+let changeBtn = document.getElementById("change_button");
+let resetBtn = document.getElementById("Reset");
 
 function resetGrid() {
   let items = document.querySelectorAll("#grid-container div");
